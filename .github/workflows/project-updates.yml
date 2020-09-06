@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Update the GitHub Profile README
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: HajaSChilds/HajaSChilds/github-update-readme@master 
+        uses: HajaSChilds/HajaSChilds/github-update-readme@master 
       # Runs a single command using the runners shell
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
