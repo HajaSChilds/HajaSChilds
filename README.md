@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/telehealth-vue.js](https://github.com/HajaSChilds/telehealth-vue.js) |
+| [HajaSChilds/talk-money-app-frontend](https://github.com/HajaSChilds/talk-money-app-frontend) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/telehealth-vue.js"><img src="https://github.com/HajaSChilds/telehealth-vue.js/raw/master/DISPLAY.jpg" alt="HajaSChilds/telehealth-vue.js" title="HajaSChilds/telehealth-vue.js" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/talk-money-app-frontend"><img src="https://github.com/HajaSChilds/talk-money-app-frontend/raw/master/DISPLAY.jpg" alt="HajaSChilds/talk-money-app-frontend" title="HajaSChilds/talk-money-app-frontend" width="NaN" height="NaN"></a> |
 
 
 
