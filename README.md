@@ -6,7 +6,7 @@ Here's a sneak preview of what I am currently working on.
 
 | [HajaSChilds/telehealth-vue.js](https://github.com/HajaSChilds/telehealth-vue.js) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/telehealth-vue.js"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/telehealth-vue.js" title="HajaSChilds/telehealth-vue.js" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/telehealth-vue.js"><img src="https://github.com/HajaSChilds/telehealth-vue.js/raw/master/DISPLAY.jpg" alt="HajaSChilds/telehealth-vue.js" title="HajaSChilds/telehealth-vue.js" width="NaN" height="NaN"></a> |
 
 
 
