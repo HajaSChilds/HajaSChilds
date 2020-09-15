@@ -4,15 +4,15 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/talk-money-app-backend](https://github.com/HajaSChilds/talk-money-app-backend) |
+| [HajaSChilds/telehealth-vue.js](https://github.com/HajaSChilds/telehealth-vue.js) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/talk-money-app-backend"><img src="https://github.com/HajaSChilds/talk-money-app-backend/raw/master/DISPLAY.jpg" alt="HajaSChilds/talk-money-app-backend" title="HajaSChilds/talk-money-app-backend" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/telehealth-vue.js"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/telehealth-vue.js" title="HajaSChilds/telehealth-vue.js" width="NaN" height="NaN"></a> |
 
 
 
 ---
 
-Hi!👋🏽  My name is Haja and I am an enthusiastic mobile and web developer. As a product-driven software engineer who loves collaborating with other talented and enthusiastic people, I love learning new technologies, building great software, and solving real-world problems with code. I am ready to build for you - bring your contracts or even better, hire me for a full-time position. A sneak preview of my in-progress projects will be shown above. This feed is auto-updated based on my activity and configurations, using Github Actions, by @theboi.  Feel free to reach out and say hello!
+Hi!👋🏽  My name is Haja and I am an enthusiastic mobile and web developer. As a product-driven software engineer who loves collaborating with other talented and enthusiastic people, I love learning new technologies, building great software, and solving real-world problems with code. I am available for hire to build your projects, via contract or full-time position. A sneak preview of my in-progress projects will be shown above. **This feed is auto-updated based on my activity and configurations, using Github Actions, by @theboi.  Feel free to reach out and say hello!
 I've worked with... *Java (Android), Python, Flask, Javascript, React Js, React Native, SQLite, MongoDB, HTML5, CSS3, SCSS, Material UI, Enzyme, Jest, AWS( EC2, S3, Elastic Beanstalk) ...but I will learn anything that is needed for the project* ✨✨✨
 
 😄 My Pronouns: She/her
