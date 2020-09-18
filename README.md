@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/talk-money-app-backend](https://github.com/HajaSChilds/talk-money-app-backend) |
+| [HajaSChilds/star_wars_challenge](https://github.com/HajaSChilds/star_wars_challenge) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/talk-money-app-backend"><img src="https://github.com/HajaSChilds/talk-money-app-backend/raw/master/DISPLAY.jpg" alt="HajaSChilds/talk-money-app-backend" title="HajaSChilds/talk-money-app-backend" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/star_wars_challenge"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/star_wars_challenge" title="HajaSChilds/star_wars_challenge" width="NaN" height="NaN"></a> |
 
 
 
