@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/talk-money-app-backend](https://github.com/HajaSChilds/talk-money-app-backend) |
+| [HajaSChilds/talk-money-app-frontend](https://github.com/HajaSChilds/talk-money-app-frontend) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/talk-money-app-backend"><img src="https://github.com/HajaSChilds/talk-money-app-backend/raw/master/DISPLAY.jpg" alt="HajaSChilds/talk-money-app-backend" title="HajaSChilds/talk-money-app-backend" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/talk-money-app-frontend"><img src="https://github.com/HajaSChilds/talk-money-app-frontend/raw/master/DISPLAY.jpg" alt="HajaSChilds/talk-money-app-frontend" title="HajaSChilds/talk-money-app-frontend" width="NaN" height="NaN"></a> |
 
 
 
