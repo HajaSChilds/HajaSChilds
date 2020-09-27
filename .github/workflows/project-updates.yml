@@ -52,5 +52,5 @@ jobs:
           reposPerRow: "1"
           imageSize:  "width:900 height:500"
           excludeActivity: '["WatchEvent"]'
-          excludeRepo: '["HajaSChilds/HajaSChilds", "HajaSChilds/100DaysofCode"]'     
+          excludeRepo: '["HajaSChilds/HajaSChilds", "HajaSChilds/100-days-of-code"]'     
           
