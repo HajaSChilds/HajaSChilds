@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/100-days-of-code](https://github.com/HajaSChilds/100-days-of-code) |
+| [HajaSChilds/React-Portfolio](https://github.com/HajaSChilds/React-Portfolio) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/100-days-of-code"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/100-days-of-code" title="HajaSChilds/100-days-of-code" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/React-Portfolio"><img src="https://github.com/HajaSChilds/React-Portfolio/raw/master/DISPLAY.jpg" alt="HajaSChilds/React-Portfolio" title="HajaSChilds/React-Portfolio" width="NaN" height="NaN"></a> |
 
 
 
