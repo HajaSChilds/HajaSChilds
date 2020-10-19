@@ -6,7 +6,7 @@ Here's a sneak preview of what I am currently working on.
 
 | [HajaSChilds/SaladBuilder](https://github.com/HajaSChilds/SaladBuilder) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/SaladBuilder"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/SaladBuilder" title="HajaSChilds/SaladBuilder" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/SaladBuilder"><img src="https://github.com/HajaSChilds/SaladBuilder/raw/master/DISPLAY.jpg" alt="HajaSChilds/SaladBuilder" title="HajaSChilds/SaladBuilder" width="NaN" height="NaN"></a> |
 
 
 
