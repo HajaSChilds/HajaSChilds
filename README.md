@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/DailySmartyUI](https://github.com/HajaSChilds/DailySmartyUI) |
+| [HajaSChilds/HajaSChilds](https://github.com/HajaSChilds/HajaSChilds) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/DailySmartyUI"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/DailySmartyUI" title="HajaSChilds/DailySmartyUI" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/HajaSChilds"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/HajaSChilds" title="HajaSChilds/HajaSChilds" width="NaN" height="NaN"></a> |
 
 
 
@@ -17,6 +17,6 @@ I've worked with... *Java (Android), Python, Flask, Javascript, React Js, React 
 
 😄 My Pronouns: She/her
 📫 How to reach me: ... - [Linked In](https://www.linkedin.com/in/haja-childs-dev-md/) - [Twitter](https://twitter.com/tech_natural)
-💻 I’m currently working on ... - A website blog with Python Flask and MongoDB, a React, Firebase, and MaterialUI chat app
+💻 I’m currently working on ... - A website blog with Python Flask and MongoDB, a React, Firebase, and MaterialUI chat app, a Gatsby Js and GraphQL shop
 🌱 I’m currently learning ... - Redux, Redux Thunk
 ⚡ Not that anyone asked but my favorite shows right now ... - The Expanse  &  Umbrella Academy --- YAY SEASON 2 !!!
