@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/React-Portfolio](https://github.com/HajaSChilds/React-Portfolio) |
+| [HajaSChilds/DailySmartyUI](https://github.com/HajaSChilds/DailySmartyUI) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/React-Portfolio"><img src="https://github.com/HajaSChilds/React-Portfolio/raw/master/DISPLAY.jpg" alt="HajaSChilds/React-Portfolio" title="HajaSChilds/React-Portfolio" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/DailySmartyUI"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/DailySmartyUI" title="HajaSChilds/DailySmartyUI" width="NaN" height="NaN"></a> |
 
 
 
