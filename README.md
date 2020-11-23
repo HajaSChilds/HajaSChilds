@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/HajaSChilds](https://github.com/HajaSChilds/HajaSChilds) |
+| [HajaSChilds/quicksite-bootstrap](https://github.com/HajaSChilds/quicksite-bootstrap) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/HajaSChilds"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/HajaSChilds" title="HajaSChilds/HajaSChilds" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/quicksite-bootstrap"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/quicksite-bootstrap" title="HajaSChilds/quicksite-bootstrap" width="NaN" height="NaN"></a> |
 
 
 
