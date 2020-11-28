@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/QuickApi](https://github.com/HajaSChilds/QuickApi) |
+| [HajaSChilds/Django_QBank](https://github.com/HajaSChilds/Django_QBank) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/QuickApi"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/QuickApi" title="HajaSChilds/QuickApi" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/Django_QBank"><img src="https://github.com/HajaSChilds/Django_QBank/raw/master/DISPLAY.jpg" alt="HajaSChilds/Django_QBank" title="HajaSChilds/Django_QBank" width="NaN" height="NaN"></a> |
 
 
 
