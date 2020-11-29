@@ -6,7 +6,7 @@ Here's a sneak preview of what I am currently working on.
 
 | [HajaSChilds/React_QBank](https://github.com/HajaSChilds/React_QBank) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/React_QBank"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/React_QBank" title="HajaSChilds/React_QBank" width="NaN" height="NaN"></a> |
+| <a href="https://github.com/HajaSChilds/React_QBank"><img src="https://github.com/HajaSChilds/React_QBank/raw/master/DISPLAY.jpg" alt="HajaSChilds/React_QBank" title="HajaSChilds/React_QBank" width="NaN" height="NaN"></a> |
 
 
 
