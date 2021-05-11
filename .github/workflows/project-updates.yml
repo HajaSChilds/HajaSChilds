@@ -6,7 +6,7 @@ name: Update the GitHub Profile README
 # events but only for the master branch
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "10***"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Update the GitHub Profile README
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-        uses: theboi/github-update-readme@v1.2
+        uses: theboi/github-update-readme@v1.3
 
       # Runs a single command using the runners shell
         env: 
@@ -43,10 +43,10 @@ jobs:
                     - A website blog with Python Flask and MongoDB, a React, Firebase, and MaterialUI chat app, a React Js and GraphQL shop  
 
                   🌱 I’m currently learning ...
-                    - Redux, Redux Thunk
+                    - Typescript
 
-                  ⚡ Not that anyone asked but my favorite shows right now ...
-                     - The Expanse  &  Umbrella Academy --- YAY SEASON 2 !!!"
+                  ⚡ My favorite binge-watched shows right now ...
+                     - The Expanse, Umbrella Academy, Stranger Things, and Shadow and Bone"
 
           repoCount: "1"
           reposPerRow: "1"
