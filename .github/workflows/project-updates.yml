@@ -6,7 +6,7 @@ name: Update the GitHub Profile README
 # events but only for the master branch
 on:
   schedule:
-    - cron: "10***"
+    - cron: "0 */4 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -47,7 +47,7 @@ jobs:
                     - Ariadne
 
                   ⚡ My favorite binge-watched shows right now ...
-                     - The Expanse, Umbrella Academy, Stranger Things, and Shadow and Bone"
+                     - Stranger Things, Severance, The Expanse, Umbrella Academy,and Shadow and Bone"
 
           repoCount: "1"
           reposPerRow: "1"
