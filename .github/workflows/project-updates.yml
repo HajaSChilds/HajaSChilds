@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Update the GitHub Profile README
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-        uses: theboi/github-update-readme
+        uses: theboi/github-update-readme@v1.3.0
 
       # Runs a single command using the runners shell
         env: 
