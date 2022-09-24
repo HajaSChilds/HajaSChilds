@@ -4,10 +4,6 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/flask-admin](https://github.com/HajaSChilds/flask-admin) |
-| :-: |
-| <a href="https://github.com/HajaSChilds/flask-admin"><img src="https://github.com/HajaSChilds/flask-admin/raw/master/DISPLAY.jpg" alt="HajaSChilds/flask-admin" title="HajaSChilds/flask-admin" width="600" height="600"></a> |
-
 
 
 ---
