@@ -4,9 +4,9 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [HajaSChilds/zoid-clean-fork](https://github.com/HajaSChilds/zoid-clean-fork) |
+| [ablairXplor/zoid-with-logs](https://github.com/ablairXplor/zoid-with-logs) |
 | :-: |
-| <a href="https://github.com/HajaSChilds/zoid-clean-fork"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/zoid-clean-fork" title="HajaSChilds/zoid-clean-fork" width="600" height="600"></a> |
+| <a href="https://github.com/ablairXplor/zoid-with-logs"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="ablairXplor/zoid-with-logs" title="ablairXplor/zoid-with-logs" width="600" height="600"></a> |
 
 
 
