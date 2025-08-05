@@ -4,6 +4,10 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
+| [HajaSChilds/zoid-clean-fork](https://github.com/HajaSChilds/zoid-clean-fork) |
+| :-: |
+| <a href="https://github.com/HajaSChilds/zoid-clean-fork"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="HajaSChilds/zoid-clean-fork" title="HajaSChilds/zoid-clean-fork" width="600" height="600"></a> |
+
 
 
 ---
