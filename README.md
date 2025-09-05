@@ -4,10 +4,6 @@ Here's a sneak preview of what I am currently working on.
 
 ---
 
-| [ablairXplor/zoid-with-logs](https://github.com/ablairXplor/zoid-with-logs) |
-| :-: |
-| <a href="https://github.com/ablairXplor/zoid-with-logs"><img src="https://github.com/HajaSChilds/HajaSChilds/raw/master/DISPLAY.jpg" alt="ablairXplor/zoid-with-logs" title="ablairXplor/zoid-with-logs" width="600" height="600"></a> |
-
 
 
 ---
